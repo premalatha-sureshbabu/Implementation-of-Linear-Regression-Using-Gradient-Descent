@@ -9,8 +9,11 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import the required library and read the dataframe.
+
 2.Write a function computeCost to generate the cost function.
+
 3.Perform iterations og gradient steps with learning rate. 
+
 4.Plot the Cost function using Gradient Descent and generate the required graph. 
 
 ## Program:
@@ -84,23 +87,23 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-# Profit prediction:
+Profit prediction:
 
 ![Screenshot 2023-09-14 083451](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/eae5f8d1-5fe7-41ee-a716-d4c9f892e7b9)
 
-# Function output:
+Function output:
 
 ![Screenshot 2023-09-14 083501](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/8328966f-f155-41d5-a301-5ce83c4da162)
 
-# Gradient descent:
+Gradient descent:
 
 ![Screenshot 2023-09-14 083509](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/72775a91-8083-40fc-ac16-56e5f62cb00a)
 
-# Cost function using Gradient Descent:
+Cost function using Gradient Descent:
 
 ![Screenshot 2023-09-14 083517](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/18cab297-fdeb-4007-ac8c-95b1dc891150)
 
-# Linear Regression using Profit Prediction:
+Linear Regression using Profit Prediction:
 
 ![Screenshot 2023-09-14 083527](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/1fd9342a-a29f-43d1-bdf9-ff205a8cc324)
 
@@ -108,7 +111,7 @@ Profit Prediction for a population of 35000:
 
 ![Screenshot 2023-09-14 083537](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/79bfcdfc-f5f6-4849-a336-4c7f925952c4)
 
-# Profit Prediction for a population of 70000 :
+Profit Prediction for a population of 70000 :
 
 ![Screenshot 2023-09-14 083544](https://github.com/premalatha-sureshbabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120620842/247c8b59-6c7c-4ab3-ba67-15ace41f28b6)
 
